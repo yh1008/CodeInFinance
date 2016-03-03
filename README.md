@@ -1,6 +1,6 @@
 This contains the project analysis for CodeInFinance.
 
-## Setup
+### Setup
 The analysis is written in python, in ipython notebook format. Needs jupyter notebook & python3 installed on the machine
 ### Run this on localhost
 ```
